@@ -12,7 +12,8 @@ I also work with technical tools and technologies including **Python, LaTeX, Mat
 
 ## 🔬 Areas of Expertise
 
-### Mathematics & Education
+### 📐 Mathematics & Education
+
 - Advanced Mathematics and mathematical problem solving
 - K–12, undergraduate, and postgraduate mathematics
 - Curriculum development and educational content creation
@@ -22,6 +23,7 @@ I also work with technical tools and technologies including **Python, LaTeX, Mat
 - Accessibility for mathematical content
 
 ### 🤖 Artificial Intelligence
+
 - LLM / Generative AI evaluation
 - AI-generated response evaluation
 - Prompt and response evaluation
@@ -35,6 +37,7 @@ I also work with technical tools and technologies including **Python, LaTeX, Mat
 - Rubric design and quality assurance
 
 ### 💻 Technical Skills
+
 - Python
 - LaTeX
 - MathType
@@ -46,6 +49,7 @@ I also work with technical tools and technologies including **Python, LaTeX, Mat
 - Microsoft Office
 
 ### 📊 Data & Quality
+
 - Image and video annotation
 - Bounding boxes, coordinates, timestamps, and object labeling
 - Audio annotation
@@ -89,11 +93,13 @@ Data Annotation
 AI Search Evaluation
 MySQL
 Tableau
+```
 
 ---
 
 ## 📂 Sample Work
-Please find below a few samples of my content creation work:
+
+Please find below a few samples of my mathematics and educational content creation work:
 
 - [Sample 1](https://docs.google.com/document/d/1qej5sAtk3LO7t7QbSgXqmD1oCMxYmHXMWOWskkcTTmk/edit?usp=sharing)
 - [Sample 2](https://docs.google.com/document/d/1bYFQ8pH4OvdPxqUXPFidYDsethn6H6pUh57x5PzPt_c/edit?usp=sharing)
@@ -102,9 +108,36 @@ Please find below a few samples of my content creation work:
 
 ---
 
-## 📫 Contact
-- **Email:** nehalanurag18@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/nehal-anurag-a9b91570/
+## 🚀 Projects
+
+### NetBox – 16 Independent Bug Fixes
+
+A software-engineering task involving the diagnosis and implementation of **16 independent bugs in the NetBox codebase**, with a structured environment, automated verification, and reference solution.
+
+Repository: [netbox-16-bug-fix](https://github.com/Nehal-9/netbox-16-bug-fix)
 
 ---
-⭐ **Follow me for math-related content and projects!**
+
+## 🎓 Education
+
+- **M.Sc. Mathematics** — University of Delhi
+- **B.Sc. (Hons.) Mathematics** — University of Delhi
+- **B.Ed.** — Maharshi Dayanand University
+
+---
+
+## 🌐 Languages
+
+- **English** — C1 proficiency
+- **Hindi** — Professional working proficiency
+
+---
+
+## 📫 Contact
+
+- **Email:** nehalanurag18@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nehal-anurag-a9b91570/)
+
+---
+
+⭐ **Mathematics • Artificial Intelligence • LLMs • Multimodal AI • Python • Data Quality • Search Evaluation • Educational Technology • Mathematical Computing**
